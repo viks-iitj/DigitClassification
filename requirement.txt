@@ -1,5 +1,5 @@
 # =========================
-# Requirements for Handwritten Digits Recognition
+# Requirements for Handwritten Digits Recognition in working branch
 # =========================
 
 # Matplotlib is used for plotting images and visualizations
